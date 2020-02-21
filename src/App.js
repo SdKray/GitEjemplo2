@@ -5,8 +5,8 @@ import './App.css';
 function App() {
 	return (
 		<div className='App'>
-			<h1>20</h1>
-			<h1>Ejemplo número 2</h1>
+			<h1>30</h1>
+			<h1>Ejemplo número 3</h1>
 		</div>
 	);
 }
