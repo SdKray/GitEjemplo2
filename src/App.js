@@ -5,7 +5,7 @@ import './App.css';
 function App() {
 	return (
 		<div className='App'>
-			<h1>40</h1>
+			<h1>450</h1>
 			<h1>Ejemplo número 4</h1>
 		</div>
 	);
